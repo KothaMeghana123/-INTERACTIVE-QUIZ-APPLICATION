@@ -46,3 +46,8 @@ Self-Learning Tools: Individuals can use this as a personal project or a tool to
 
 Conclusion:
 The interactive quiz application demonstrates effective use of frontend technologies to create a functional and engaging user experience. With clean separation of logic (via individual JS files), organized project structure, and thoughtful user interaction design, the application stands as a good example of modern web development. It also showcases how basic web technologies can be leveraged to build meaningful tools for learning and evaluation
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e9a0e8f7-de73-4b5f-8208-099b7d2d160e)
+
